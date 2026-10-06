@@ -1,0 +1,49 @@
+3 git init                                                                                           
+   4 git status                                                                                         
+   5 clear                                                                                              
+   6 git status                                                                                         
+   7 git status                                                                                         
+   8 git add .\testing.py                                                                               
+   9 git status                                                                                         
+  10 git rm .\testing.py                                                                                
+  11 git status                                                                                         
+  12 git rm --cache                                                                                     
+  13 git status                                                                                         
+  14 git rm --cache .\testing.py                                                                        
+  15 clear                                                                                              
+  16 git add .                                                                                          
+  17 git status                                                                                         
+  18 git commit -m "added testing files"                                                                
+  19 git status                                                                                         
+  20 rm .\testing.py                                                                                    
+  21 git status                                                                                         
+  22 git restore testing.py                                                                             
+  23 clear                                                                                              
+  24 history                                                                                            
+  25 git remote add origin https://github.com/Abhishek199820/github-for-devops.git                      
+  26 git status                                                                                         
+  27 git remote -d                                                                                      
+  28 clear                                                                                              
+  29 git remote -v                                                                                      
+  30 git remote set-url origin https://github.com/Abhishek199820/github-for-devops.git 
+  31 clear                                                                                              
+  32 git remote origin -v                                                                               
+  33 git remote  -v                                                                                     
+  34 clear                                                                                              
+  35 github push origin master                                                                          
+  36 ls                                                                                                 
+  37 git staus                                                                                          
+  38 git status                                                                                         
+  39 git remote set-url origin https://github.com/Abhishek199820/github-for-devops.git 
+  40 git remote  -v                                                                                     
+  41 git add .                                                                                          
+  42 git commit -m "First commit"                                                                       
+  43 git push origin master                                                                             
+  44 git pull origin                                                                                    
+  45 git pull origin master                                                                             
+  46 git branch                                                                                         
+  47 git branch dev                                                                                     
+  48 git branch                                                                                         
+  49 git switch dev                                                                                     
+  50 git branch                                                                                         
+  51 clear
